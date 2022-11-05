@@ -17,8 +17,8 @@ body {
 
 li {
   border: 1px solid black;
-  height: 10vh;
-  width: 10vw;
+  height: 5em;
+  width: 5em;
   display: inline-block;
 }
 
